@@ -1,0 +1,62 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  .main-content {
+    background-image: url('b378050.jpg'); 
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+    min-height: 100vh;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  #perfil img, #descricao img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%; 
+  }
+  
+  .perfil, .descricao {
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .perfil h4, .descricao h4 {
+    font-size: 14px;
+    color: #070101;
+  }
+  
+  #contato ul {
+    padding-left: 0;
+  }
+  
+  #contato .list-group-item {
+    font-size: 16px;
+  }
+  
+  #projetos .card {
+    margin-bottom: 20px;
+  }
+  
+  #projetos .card-body {
+    text-align: center;
+  }
+  
+ 
+  section {
+    padding: 40px 0;
+  }
+  
